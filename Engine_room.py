@@ -21,3 +21,19 @@ name = input('raju')   # once this is run, type anything in the box
 print(name)
 print(type(name))
 
+# You can carry out basic + - * /
+
+#part2
+
+print(num1 + num2)
+print(num1 - num2)
+print(num1 * num2)
+print(num2 / num1)   # division sometimes may result in float
+# You can carry out basic + - * /
+
+# Other arithmatic operators - // % **
+
+
+print(num2 // num1)  # this is called floor division i.e. the output is quotient without reminder i.e. discarding the numbers after decimal point
+print(num2 % num1)   # this is called modulus i.e. the reminder after division
+print(3 ** 5)        # exponent (^) ---> 3^2
